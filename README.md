@@ -240,7 +240,7 @@ If you use this system in your research, please cite:
 ```bibtex
 @software{metaphor_analysis_system,
   title={Two-Agent Metaphor Analysis System},
-  author={Daniel Rodriguez},
+  author={Daniel Otero},
   year={2024},
   url={https://github.com/Rodato/Metaphor-agents}
 }
