@@ -36,7 +36,7 @@ Metaphor-agents/
 
 1. **Clone the repository:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Rodato/Metaphor-agents.git
 cd Metaphor-agents
 ```
 
@@ -240,9 +240,9 @@ If you use this system in your research, please cite:
 ```bibtex
 @software{metaphor_analysis_system,
   title={Two-Agent Metaphor Analysis System},
-  author={Your Name},
+  author={Daniel Rodriguez},
   year={2024},
-  url={https://github.com/your-username/Metaphor-agents}
+  url={https://github.com/Rodato/Metaphor-agents}
 }
 ```
 
